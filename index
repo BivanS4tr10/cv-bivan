@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CV Bivan Satrio</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <div class="profile">
+          <img
+            src="indo.jpg"
+            alt="indo"
+            class="profile-photo"
+          />
+          <h1>Bivan Satrio</h1>
+          <p>Waitress</p>
+        </div>
+      </header>
+
+      <section class="personal-info">
+        <h2>Contact Information</h2>
+        <ul>
+          <li>Email: if23.bivansatrio@mhs.ubpkarawang.ac.id</li>
+          <li>Phone: +6289604625342</li>
+          <li>Location: Karawang, Puri Telukjambe</li>
+        </ul>
+      </section>
+
+      <section class="about">
+        <h2>Tentang Saya</h2>
+        <p>
+          Seorang fresh graduate yang sekarang sedang menempuh pendidikan di
+          Universitas Buana Perjuangan Karawang di fakultas ilmu komputer
+          jurusan teknik komputer.
+        </p>
+      </section>
+
+      <section class="experience">
+        <h2>Pengalaman kerja</h2>
+        <div class="job">
+          <h3>Waitress Cafe</h3>
+          <p>K.A Coffee | 2024 - Sekarang</p>
+          <ul>
+            <li>Melayani Customer.</li>
+            <li>Manage Alat yang tersedia untuk waitress.</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="education">
+        <h2>Education</h2>
+        <p>Universitas Buana Perjuangan Karawang | Teknik Informatika</p>
+        <p>SMAN 1 TELUKJAMBE TIMUR | 2020 - 2023</p>
+      </section>
+
+      <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+          <li>English Speaking</li>
+          <li>Komunikasi</li>
+          <li>Public Speaking</li>
+        </ul>
+      </section>
+
+      <footer>
+        <p>&copy; 2024 Bivan Satrio | Waitress</p>
+      </footer>
+    </div>
+  </body>
+</html>
